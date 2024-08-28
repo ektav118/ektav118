@@ -7,7 +7,9 @@ What I Do
 Data Analysis: I work with large datasets, utilizing statistical methods and machine learning algorithms to extract meaningful patterns and trends.
 Machine Learning: I build and optimize models for various applications, including predictive modeling, classification, and recommendation systems.
 Projects: I have experience in deploying machine learning models to production, ensuring robust performance and scalability.
+
 What I'm Working On
+
 I'm currently focused on projects involving deep learning, computer vision, and natural language processing. I enjoy exploring new technologies and tools that push the boundaries of what's possible in data science.
 
 Let's Connect
