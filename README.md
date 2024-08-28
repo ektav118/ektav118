@@ -2,6 +2,7 @@ About Me
 I'm Ekta Manoj Vayanan, a Master's student in Computer Science at Binghamton University, specializing in data analysis and machine learning. With a solid foundation in Python, TensorFlow, and PyTorch, I enjoy building machine learning models, developing efficient algorithms, and transforming raw data into actionable insights.
 
 What I Do
+
 Data Analysis: I work with large datasets, utilizing statistical methods and machine learning algorithms to extract meaningful patterns and trends.
 Machine Learning: I build and optimize models for various applications, including predictive modeling, classification, and recommendation systems.
 Projects: I have experience in deploying machine learning models to production, ensuring robust performance and scalability.
